@@ -1,0 +1,7 @@
+name = "embeds"
+type = "webpack"
+account_id = "4af970a8dc630d5f3728e37ccef0f421"
+workers_dev = true
+route = ""
+zone_id = "d9288ad7cbaff25a5f1fd23d5f25b892"
+webpack_config = "webpack.config.js"
